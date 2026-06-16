@@ -18,3 +18,5 @@ To become a junior developer 🚀
 
 ## Contact
 Email: irinagopancuk5@gmail.com
+
+Simple C++ calculator project. My first programming practice.
