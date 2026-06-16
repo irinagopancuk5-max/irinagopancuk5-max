@@ -3,18 +3,18 @@
 ---
 
 ## 👩‍💻 About me
-Beginner software developer focused on building real projects and improving problem-solving skills.
+Beginner software developer focused on building real-world projects and improving problem-solving skills.
 
-I learn by creating practical applications in **C++ and Python**, focusing on logic, structure, and real-world development practice.
+I learn by creating practical applications in **C++ and Python**, focusing on clean logic, structure, and software development fundamentals.
 
 ---
 
 ## 🛠 Skills
-- C++ (beginner)
-- Python (beginner)
+- C++
+- Python
 - Git & GitHub
 - Problem solving
-- Console applications
+- Console application development
 - Basic software architecture
 
 ---
@@ -30,17 +30,17 @@ I learn by creating practical applications in **C++ and Python**, focusing on lo
 
 ### ☕ Python Project
 - Coffee Shop Telegram Bot  
-  *(order system, database, admin panel, statistics)*
+  (order system, database, admin panel, statistics)
 
 ---
 
 ## 📊 Experience gained
-- Building structured applications
-- Working with GitHub repositories
-- Console application development
-- Telegram bot development
-- SQLite database usage
-- Basic system logic design
+- Building structured applications from scratch
+- Working with GitHub repositories and version control
+- Developing console-based applications
+- Creating Telegram bots with Python
+- Using SQLite databases
+- Designing simple system logic
 
 ---
 
@@ -56,7 +56,7 @@ To become a **Junior Software Developer** and grow into a strong backend or full
 ---
 
 ## ⭐ About this profile
-This profile represents my learning journey in programming.  
-Each project is a step toward becoming a professional developer.
+This profile documents my journey in software development.  
+Each project represents progress in my learning and skills.
 
 ---
