@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Irina ☕💻
 
-<!--
-**irinagopancuk5-max/irinagopancuk5-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Barista by work, developer in progress.
 
-Here are some ideas to get you started:
+## About me
+I am learning programming and building my first projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python (beginner)
+- HTML/CSS (beginner)
+
+## Projects
+- Calculator in Python
+- Simple practice projects
+
+## Goals
+To become a junior developer 🚀
+
+## Contact
+Email: irinagopancuk5@gmail.com
