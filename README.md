@@ -1,37 +1,39 @@
 # Hi, I'm Irina ☕💻
 
-Barista by work, developer in progress.
+Barista by work, aspiring developer.
 
 ---
 
 ## 👩‍💻 About me
-I am learning programming and building my first projects step by step.  
-I like solving logical tasks and improving my coding skills.
+I am learning programming step by step and building small projects to improve my skills.
+
+I enjoy solving logical tasks and learning how real applications work.
 
 ---
 
 ## 🛠 Skills
 - C++ (beginner)
 - Python (beginner)
-- Basic problem solving
-- Learning Git & GitHub
+- Git & GitHub basics
+- Problem solving
 
 ---
 
 ## 🚀 Projects
-- Calculator (C++)
-- ToDo List (C++)
-- Guess the Number Game (C++)
-- Rock Paper Scissors Game (C++)
-- Expense Tracker (C++)
+
+- C++ Calculator
+- ToDo List App
+- Guess the Number Game
+- Rock Paper Scissors Game
+- Expense Tracker
 
 ---
 
 ## 🎯 Goals
 - Become a junior developer
 - Build real-world projects
-- Improve problem-solving skills
-- Learn backend development basics
+- Improve coding and logic skills
+- Learn software development step by step
 
 ---
 
@@ -41,4 +43,4 @@ Email: irinagopancuk5@gmail.com
 ---
 
 ## ⭐ About this profile
-This GitHub is my learning journey. I am improving step by step and building more complex projects over time.
+This GitHub is my learning journey. I upload projects while improving my programming skills.
