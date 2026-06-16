@@ -1,9 +1,11 @@
-# ☕ Irina | Junior Developer in Progress
+# ☕ Irina | Junior Software Developer
+
+---
 
 ## 👩‍💻 About me
-Beginner software developer focused on learning through real projects.
+Beginner software developer focused on building real projects and improving problem-solving skills.
 
-I build small applications in **C++ and Python** to improve logic, problem-solving, and understanding of software systems.
+I learn by creating practical applications in **C++ and Python**, focusing on logic, structure, and real-world development practice.
 
 ---
 
@@ -13,6 +15,7 @@ I build small applications in **C++ and Python** to improve logic, problem-solvi
 - Git & GitHub
 - Problem solving
 - Console applications
+- Basic software architecture
 
 ---
 
@@ -26,32 +29,34 @@ I build small applications in **C++ and Python** to improve logic, problem-solvi
 - ATM System
 
 ### ☕ Python Project
-- Coffee Shop Telegram Bot (order system + database + admin panel)
+- Coffee Shop Telegram Bot  
+  *(order system, database, admin panel, statistics)*
 
 ---
 
-## 📊 What I learned
-- How to structure real projects
-- How to work with GitHub repositories
-- How to build CLI applications
-- How to create Telegram bots
-- Basics of databases (SQLite)
+## 📊 Experience gained
+- Building structured applications
+- Working with GitHub repositories
+- Console application development
+- Telegram bot development
+- SQLite database usage
+- Basic system logic design
 
 ---
 
 ## 🎯 Goal
-To become a **Junior Software Developer** and grow into a strong backend/full-stack developer.
+To become a **Junior Software Developer** and grow into a strong backend or full-stack engineer.
 
 ---
 
 ## 📫 Contact
-- Email: irinagopancuk5@gmail.com
-- GitHub: irinagopancuk5-max
+- Email: irinagopancuk5@gmail.com  
+- GitHub: https://github.com/irinagopancuk5-max
 
 ---
 
 ## ⭐ About this profile
-This profile is my learning journey.  
-Each repository represents a step forward in my development skills.
+This profile represents my learning journey in programming.  
+Each project is a step toward becoming a professional developer.
 
 ---
