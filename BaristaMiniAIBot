@@ -1,0 +1,23 @@
+from telegram import Update
+from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
+
+# 🔑 ТУТ ВСТАВ СВІЙ ТОКЕН
+TOKEN = "YOUR_TOKEN_HERE"
+
+# команда /start
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text("Привіт! Я бариста-бот ☕🤖")
+
+# відповіді на повідомлення
+async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    text = update.message.text
+    await update.message.reply_text(f"Ти написала: {text}")
+
+# запуск бота
+app = ApplicationBuilder().token(TOKEN).build()
+
+app.add_handler(CommandHandler("start", start))
+app.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
+
+print("Bot is running...")
+app.run_polling()
