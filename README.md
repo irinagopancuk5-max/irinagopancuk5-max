@@ -7,7 +7,7 @@ I am learning programming and building my first projects.
 
 ## Skills
 - Python (beginner)
-- HTML/CSS (beginner)
+- С++ (beginner)
 
 ## Projects
 - Calculator in Python
