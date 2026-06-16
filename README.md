@@ -3,9 +3,9 @@ Hi, I'm Irina ☕💻
 Barista by work, aspiring developer.
 
 ## About me
-I am building my programming skills through small C++ projects.
+I am a beginner C++ developer building practical console applications to improve my programming and problem-solving skills.
 
-I enjoy solving logical problems and learning how software works.
+I enjoy creating small real-world simulations and learning how software systems work.
 
 ## Skills
 - C++ (beginner)
