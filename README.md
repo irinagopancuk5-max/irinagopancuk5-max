@@ -7,7 +7,7 @@ Barista by work, aspiring developer.
 ## 👩‍💻 About me
 I am learning programming step by step and building small projects to improve my skills.
 
-I enjoy solving logical tasks and learning how real applications work.
+I enjoy solving logical tasks and understanding how real applications work.
 
 ---
 
@@ -20,19 +20,18 @@ I enjoy solving logical tasks and learning how real applications work.
 ---
 
 ## 🚀 Projects
-
-- C++ Calculator
-- ToDo List App
-- Guess the Number Game
-- Rock Paper Scissors Game
-- Expense Tracker
+- Calculator (C++)
+- Guess the Number Game (C++)
+- Rock Paper Scissors Game (C++)
+- Expense Tracker (C++)
+- ATM System (C++)
 
 ---
 
 ## 🎯 Goals
 - Become a junior developer
 - Build real-world projects
-- Improve coding and logic skills
+- Improve programming and problem-solving skills
 - Learn software development step by step
 
 ---
