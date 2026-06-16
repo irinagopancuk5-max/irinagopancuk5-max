@@ -1,25 +1,57 @@
 # ☕ Irina | Junior Developer in Progress
 
 ## 👩‍💻 About me
-I am a beginner developer learning C++ and Python by building real projects.
+Beginner software developer focused on learning through real projects.
 
-I focus on practice, logic, and understanding how software works.
+I build small applications in **C++ and Python** to improve logic, problem-solving, and understanding of software systems.
+
+---
 
 ## 🛠 Skills
 - C++ (beginner)
 - Python (beginner)
 - Git & GitHub
+- Problem solving
+- Console applications
+
+---
 
 ## 🚀 Projects
-- Calculator (C++)
-- Guess Number Game (C++)
-- Rock Paper Scissors (C++)
-- Expense Tracker (C++)
-- ATM System (C++)
-- Coffee Shop Bot (Python Telegram Bot)
+
+### 💻 C++ Projects
+- Calculator
+- Guess Number Game
+- Rock Paper Scissors
+- Expense Tracker
+- ATM System
+
+### ☕ Python Project
+- Coffee Shop Telegram Bot (order system + database + admin panel)
+
+---
+
+## 📊 What I learned
+- How to structure real projects
+- How to work with GitHub repositories
+- How to build CLI applications
+- How to create Telegram bots
+- Basics of databases (SQLite)
+
+---
 
 ## 🎯 Goal
-Become a junior software developer and build real-world applications.
+To become a **Junior Software Developer** and grow into a strong backend/full-stack developer.
+
+---
 
 ## 📫 Contact
-Email: irinagopancuk5@gmail.com
+- Email: irinagopancuk5@gmail.com
+- GitHub: irinagopancuk5-max
+
+---
+
+## ⭐ About this profile
+This profile is my learning journey.  
+Each repository represents a step forward in my development skills.
+
+---
